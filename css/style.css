@@ -1,0 +1,65 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2c2c2c;
+  background-color: #fff;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+.main-btn {
+  border-radius: 30px;
+
+  min-width: 98px;
+  height: 32px;
+  background-color: #bbf330;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 1.5;
+  text-align: center;
+  color: #2c2c2c;
+  border: none;
+}
+.conteiner {
+  max-width: 1280px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin: 0 auto;
+}
+.header-conteiner {
+  display: flex;
+  align-items: center;
+}
+.nav-list {
+  display: flex;
+  gap: 28px;
+}
+.logo {
+  margin-right: auto;
+}
+.nav-link {
+  display: block;
+  padding: 28px 0;
+}
+.navigation {
+  margin-right: 30px;
+}
+.offreing-button {
+  background-color: #fff;
+  border: 2px solid #7eb101;
+}
