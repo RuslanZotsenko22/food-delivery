@@ -23,9 +23,9 @@ p {
 }
 .main-btn {
   border-radius: 30px;
-
-  min-width: 98px;
-  height: 32px;
+  padding: 10px 20px;
+  min-width: 106px;
+  height: 40px;
   background-color: #bbf330;
   cursor: pointer;
   font-weight: 500;
@@ -62,4 +62,253 @@ p {
 .offreing-button {
   background-color: #fff;
   border: 2px solid #7eb101;
+}
+.hero {
+  padding-top: 14px;
+  padding-bottom: 69px;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.2;
+  margin-bottom: 24px;
+}
+.hero-text {
+  line-height: 1.5;
+  margin-bottom: 40px;
+  max-width: 500px;
+}
+.hero-conteiner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero-wrapper {
+  max-width: 511px;
+}
+.title-four {
+  width: 656px;
+}
+.title-four {
+  font-size: 42px;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+.four-conteiner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.four-texr {
+  width: 523px;
+}
+.input-text {
+  border: 0.85px solid #ffe550;
+  border-radius: 30px;
+  margin-right: 32px;
+  padding: 10px;
+  width: 350px;
+}
+.hero-four-section {
+  padding-top: 76px;
+  padding-bottom: 201px;
+}
+
+.firs-container {
+  display: flex;
+  justify-content: center;
+}
+.link-title {
+  width: 253px;
+}
+.title-first {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1.2;
+
+  margin-bottom: 20px;
+}
+.link {
+  display: flex;
+  gap: 67px;
+  margin-bottom: 32px;
+}
+
+.title-name {
+  font-size: 18px;
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+.hero-second {
+  max-width: 573px;
+  margin-top: 83px;
+}
+.img-apple {
+  margin-right: 90px;
+}
+.hero-two {
+  background-color: #ffe550;
+  padding-top: 113px;
+  padding-bottom: 124px;
+}
+.link-text {
+  font-size: 14px;
+}
+
+.favorit-section {
+  padding-top: 120px;
+  padding-bottom: 101px;
+  margin-bottom: 20px;
+}
+.favorite-title {
+  font-size: 42px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.favorite-text {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.favorite-link {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 111px 114px;
+  justify-content: center;
+}
+.favorit-link-li {
+}
+.link-li-a {
+}
+.favorite-link-li {
+}
+
+.customers-section {
+  padding-top: 140px;
+  padding-bottom: 126px;
+  background-color: #ffe550;
+}
+
+.customers-title {
+  font-size: 42px;
+  margin-bottom: 20px;
+}
+.customers-text {
+  font-weight: 400;
+  font-size: 16px;
+
+  margin-bottom: 32px;
+}
+.customers-link {
+  display: flex;
+  gap: 139px;
+}
+.customers-link-li {
+  width: 501px;
+  background-color: white;
+  border-radius: 0 30px 30px 30px;
+}
+
+.customers-photo {
+}
+.customers-title-h {
+  font-weight: 700px;
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+.customers-text-text {
+  font-weight: 700;
+  font-size: 18px;
+  padding-top: 60px;
+  padding-left: 14px;
+  padding-right: 14px;
+  margin-bottom: 41px;
+}
+.block {
+  display: flex;
+  margin-left: 14px;
+  align-items: center;
+
+  padding-bottom: 14px;
+}
+.title-four-class {
+  margin-left: 16px;
+}
+.title-text {
+  font-size: 14px;
+}
+.foter-sec {
+  /*padding-bottom: 100px;*/
+  /*padding-top: 100px;*/
+}
+
+.foter-nav-box {
+  display: flex;
+  align-items: center;
+  padding-bottom: 147px;
+}
+.img-class {
+  margin-right: 143px;
+}
+.nav-link-footer {
+  display: flex;
+  gap: 28px;
+}
+.footer-row-one {
+  display: flex;
+  justify-content: space-between;
+}
+.clas-a {
+  font-size: 14px;
+  color: #2c2c2c;
+}
+
+.foter-subscribe {
+}
+.class-strong {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.clas-form {
+  margin-top: 12px;
+}
+.footer-imput {
+  border: 0.85px solid #ffe550;
+  border-radius: 30px;
+  padding: 10px;
+  width: 279px;
+  height: 42px;
+}
+.footer-text {
+  margin-top: 12px;
+  /*margin-bottom: 80px;*/
+  font-style: 12px;
+  padding-bottom: 80px;
+}
+.footer-a {
+  font-size: 12px;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #7eb101;
+}
+.nav-footer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.font-size-footer {
+}
+.nav-footer-two {
+  display: flex;
+  gap: 20px;
+}
+.button-footer {
+  border: 0.85px solid #7eb101;
+  border-radius: 30px;
+  padding: 10px 20px;
+  min-width: 103px;
+  height: 42px;
+  background: #fff;
+  margin-left: 12px;
 }
